@@ -1,5 +1,5 @@
 #include<stdio.h>
 int main()
 {
-	printf("Hello Engin!\n");
+	printf("Hello Engine!\n");
 }
